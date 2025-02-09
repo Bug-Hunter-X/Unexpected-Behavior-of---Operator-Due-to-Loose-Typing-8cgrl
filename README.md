@@ -1,0 +1,1 @@
+This example demonstrates unexpected behavior in JavaScript due to loose typing and the + operator.  The function `foo` adds two values, but the results vary widely depending on the input types.  The solution shows how to explicitly check types or use a more robust addition method.
